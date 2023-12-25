@@ -149,3 +149,5 @@ class Bike{
         price = price;
     }
 }
+
+// solved the all question by own
